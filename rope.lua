@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/BexruzScripts/Blue-lock-no-cd-reo-get-any-style-script.-WORKS-WITH-WORLD-CLASSES-/refs/heads/main/Rayfieldmod2'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "Exuso Hub",
+   Name = "YoxanXHub",
    Icon = 0,
    LoadingTitle = "YoxanXHub",
    LoadingSubtitle = "By YoxanX",
@@ -15,18 +15,18 @@ local Window = Rayfield:CreateWindow({
    },
    Discord = {
       Enabled = true,
-      Invite = "YmnaucbQpC",
+      Invite = "https://discord.gg/edsBT9Vy",
       RememberJoins = true
    },
    KeySystem = false,
    KeySettings = {
-      Title = "Exuso Hub",
+      Title = "YoxanXHub",
       Subtitle = "A one time key system. (Link copied)",
       Note = "Discord link copied to clipboard! Paste in browser to get the key.",
-      FileName = "ExusoKey",
+      FileName = "YoxKey",
       SaveKey = true,
       GrabKeyFromSite = false,
-      Key = {"EXUSO621", "EXPERM2", "292"}
+      Key = {"YOXANXHUB_Ep9vXa3NtLjQwZ"}
    }
 })
 
