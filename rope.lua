@@ -18,7 +18,7 @@ local Window = Rayfield:CreateWindow({
       Invite = "https://discord.gg/edsBT9Vy",
       RememberJoins = true
    },
-   KeySystem = false,
+   KeySystem = true,
    KeySettings = {
       Title = "YoxanXHub",
       Subtitle = "A one time key system. (Link copied)",
